@@ -45,6 +45,8 @@ for i in xrange(8):
 print res
 print '-' * 10
 
+for k in res:
+    print res[k]
 # run above in ipython
 """
 >? 1
