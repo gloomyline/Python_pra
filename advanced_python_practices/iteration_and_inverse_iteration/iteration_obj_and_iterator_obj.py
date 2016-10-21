@@ -5,7 +5,6 @@
 @File    : iteration_obj_and_iterator_obj.py
 @Software: PyCharm Community Edition
 """
-import requests
 from random import randint
 
 # iterable include list and str
