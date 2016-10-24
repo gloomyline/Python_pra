@@ -1,0 +1,19 @@
+2016-08-17T09:59:13.057+0800 I CONTROL  [main] Hotfix KB2731284 or later update is not installed, will zero-out data files
+2016-08-17T09:59:13.059+0800 I CONTROL  [initandlisten] MongoDB starting : pid=7576 port=27017 dbpath=E:\Mongodb\db 32-bit host=DC83
+2016-08-17T09:59:13.059+0800 I CONTROL  [initandlisten] targetMinOS: Windows Vista/Windows Server 2008
+2016-08-17T09:59:13.059+0800 I CONTROL  [initandlisten] db version v3.2.8
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten] git version: ed70e33130c977bda0024c125b56d159573dbaf0
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten] allocator: tcmalloc
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten] modules: none
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten] build environment:
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten]     distarch: i386
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten]     target_arch: i386
+2016-08-17T09:59:13.060+0800 I CONTROL  [initandlisten] options: { storage: { dbPath: "E:\Mongodb\db", engine: "mmapv1" }, systemLog: { destination: "file", path: "E:\Mongodb\log\mongodb.log" } }
+2016-08-17T09:59:13.108+0800 I CONTROL  [initandlisten] 
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] ** WARNING: This 32-bit MongoDB binary is deprecated
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] ** NOTE: This is a 32-bit MongoDB binary running on a 64-bit operating
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] **      system. Switch to a 64-bit build of MongoDB to
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] **      support larger databases.
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] 
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] 
+2016-08-17T09:59:13.109+0800 I CONTROL  [initandlisten] ** NOTE: This is a 32 bit MongoDB binary.
