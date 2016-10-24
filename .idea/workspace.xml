@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc87950a-c371-43dc-9f50-0411e94174d9" name="Default" comment="">
+    <list default="true" id="cc87950a-c371-43dc-9f50-0411e94174d9" name="Default" comment="modify mongodb.log">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/file_IO_basic.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_python_practices/string_handle/mongodb.log" afterPath="$PROJECT_DIR$/advanced_python_practices/string_handle/mongodb.log" />
     </list>
@@ -26,21 +28,51 @@
       <file leaf-file-name="str_align.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/str_align.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            <state relative-caret-position="231">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strip_unneeded_str.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strip_unneeded_str.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/strip_unneeded_str.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="387">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#78#87#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_IO_basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/file_IO_basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="str_splice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/str_splice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,15 +119,17 @@
         <option value="$PROJECT_DIR$/advanced_python_practices/iteration_and_inverse_iteration/concurrent_and_chain_in_iteration.py" />
         <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/mongodb.log" />
         <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/re_sub.py" />
-        <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/str_splice.py" />
         <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/str_align.py" />
         <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/strip_unneeded_str.py" />
+        <option value="$PROJECT_DIR$/advanced_python_practices/string_handle/str_splice.py" />
+        <option value="$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/file_IO_basic.py" />
+        <option value="$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/__init__.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="28" />
+    <option name="x" value="128" />
+    <option name="y" value="29" />
     <option name="width" value="1549" />
     <option name="height" value="1009" />
   </component>
@@ -171,7 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="string_handle" />
+              <option name="myItemId" value="file_IO_handle_efficiently" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -539,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477298082817</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="modify mongodb.log">
+      <created>1477298188783</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1477298188783</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -552,14 +593,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="28" width="1549" height="1009" extended-state="0" />
+    <frame x="128" y="29" width="1549" height="1009" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23764387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3574814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.44055945" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="792" y="163" width="874" height="822" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.55944055" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.55944055" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38052094" sideWeight="0.47226173" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.306698" sideWeight="0.5128023" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -638,7 +679,8 @@
     <MESSAGE value="add float_range_generator test" />
     <MESSAGE value="update to merge" />
     <MESSAGE value="complete string_handle" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete string_handle" />
+    <MESSAGE value="modify mongodb.log" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify mongodb.log" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -865,13 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/str_splice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/advanced_python_practices/datastructure_and_arithmetic/history">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -896,21 +931,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/str_splice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/str_align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        <state relative-caret-position="231">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/advanced_python_practices/string_handle/strip_unneeded_str.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="387">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#78#87#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/file_IO_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_python_practices/file_IO_handle_efficiently/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
